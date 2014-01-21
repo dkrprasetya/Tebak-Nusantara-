@@ -1,0 +1,60 @@
+menuscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main
+  rotate: false
+  xy: 674, 88
+  size: 240, 66
+  orig: 250, 160
+  offset: 5, 47
+  index: -1
+logo
+  rotate: false
+  xy: 2, 88
+  size: 670, 438
+  orig: 1024, 512
+  offset: 0, 74
+  index: -1
+mulai
+  rotate: false
+  xy: 2, 528
+  size: 380, 104
+  orig: 400, 256
+  offset: 10, 76
+  index: -1
+katalog
+  rotate: false
+  xy: 202, 2
+  size: 198, 84
+  orig: 256, 128
+  offset: 38, 16
+  index: -1
+papanbudaya
+  rotate: false
+  xy: 2, 634
+  size: 724, 374
+  orig: 800, 480
+  offset: 41, 62
+  index: -1
+budaya
+  rotate: false
+  xy: 2, 2
+  size: 198, 84
+  orig: 256, 128
+  offset: 36, 16
+  index: -1
+pulau
+  rotate: false
+  xy: 728, 1010
+  size: 196, 86
+  orig: 256, 128
+  offset: 36, 17
+  index: -1
+papanpulau
+  rotate: false
+  xy: 2, 1010
+  size: 724, 374
+  orig: 800, 480
+  offset: 41, 62
+  index: -1

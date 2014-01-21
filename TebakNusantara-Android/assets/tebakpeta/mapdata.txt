@@ -1,0 +1,371 @@
+Banda_Aceh	44	75
+1
+Di_manakah_letak_Banda_Aceh?
+
+Lhokseumawe	64	78
+1
+Di_manakah_letak_Lhokseumawe?
+
+Langsa	77	85
+1
+Di_manakah_letak_Langsa?
+
+Pulau_Weh	36	72
+1
+Di_manakah_letak_Pulau_Weh?
+
+Denpasar	317	267
+1
+Di_manakah_letak_Denpasar?
+
+Pangkalpinang	190	178
+1
+Di_manakah_letak_Pangkalpinang?
+
+Tanjungpandan	211	185
+1
+Di_manakah_letak_Tanjungpandan?
+
+Manggar	221	188
+1
+Di_manakah_letak_Manggar?
+
+Tangerang	195	233
+1
+Di_manakah_letak_Tangerang?
+
+Tangerang_Selatan	198	237
+1
+Di_manakah_letak_Tangerang_Selatan?
+
+Serang	191	234
+1
+Di_manakah_letak_Serang?
+
+Cilegon	188	233
+1
+Di_manakah_letak_Cilegon?
+
+Bengkulu	138	199
+1
+Di_manakah_letak_Bengkulu?
+
+Gorontalo	425	142
+1
+Di_manakah_letak_Gorontalo?
+
+Jakarta	205	233
+1
+Di_manakah_letak_Jakarta?
+
+Jambi	153	170
+1
+Di_manakah_letak_Jambi?
+
+Bandung	211	244
+1
+Di_manakah_letak_Bandung?
+
+Bekasi	208	235
+1
+Di_manakah_letak_Bekasi?
+
+Depok	204	238
+1
+Di_manakah_letak_Depok?
+
+Bogor	204	241
+1
+Di_manakah_letak_Bogor?
+
+Tasikmalaya	217	244
+1
+Di_manakah_letak_Tasikmalaya?
+
+Cimahi	209	241
+1
+Di_manakah_letak_Cimahi?
+
+Cirebon	222	240
+1
+Di_manakah_letak_Cirebon?
+
+Sukabumi	207	245
+1
+Di_manakah_letak_Sukabumi?
+
+Banjar	224	249
+1
+Di_manakah_letak_Banjar?
+
+Semarang	252	245
+1
+Di_manakah_letak_Semarang?
+
+Surakarta	252	249
+1
+Di_manakah_letak_Surakarta?
+
+Pekalongan	239	243
+1
+Di_manakah_letak_Pekalongan?
+
+Purwokerto	236	250
+1
+Di_manakah_letak_Purwokerto?
+
+Tegal	235	245
+1
+Di_manakah_letak_Tegal?
+
+Salatiga	256	248
+1
+Di_manakah_letak_Salatiga?
+
+Kota_Klaten	258	256
+1
+Di_manakah_letak_Kota_Klaten?
+
+Kepulauan_Karimunjawa	255	231
+1
+Di_manakah_letak_Kepulauan_Karimunjawa?
+
+Surabaya	282	250
+1
+Di_manakah_letak_Surabaya?
+
+Malang	281	261
+1
+Di_manakah_letak_Malang?
+
+Kediri	268	255
+1
+Di_manakah_letak_Kediri?
+
+Probolinggo	288	256
+1
+Di_manakah_letak_Probolinggo?
+
+Batu	282	260
+1
+Di_manakah_letak_Batu?
+
+Pasuruan	284	256
+1
+Di_manakah_letak_Pasuruan?
+
+Madiun	269	256
+1
+Di_manakah_letak_Madiun?
+
+Blitar	271	260
+1
+Di_manakah_letak_Blitar?
+
+Mojokerto	275	252
+1
+Di_manakah_letak_Mojokerto?
+
+Pulau_Sempu	280	266
+1
+Di_manakah_letak_Pulau_Sempu?
+
+Pontianak	238	154
+1
+Di_manakah_letak_Pontianak?
+
+Singkawang	232	138
+1
+Di_manakah_letak_Singkawang?
+
+Pulau_Derawan	360	117
+1
+Di_manakah_letak_Pulau_Derawan?
+
+Banjarmasin	311	195
+1
+Di_manakah_letak_Banjarmasin?
+
+Banjarbaru	312	197
+1
+Di_manakah_letak_Banjarbaru?
+
+Palangkaraya	300	183
+1
+Di_manakah_letak_Palangkaraya?
+
+Samarinda	340	158
+1
+Di_manakah_letak_Samarinda?
+
+Balikpapan	338	164
+1
+Di_manakah_letak_Balikpapan?
+
+Tarakan	345	104
+1
+Di_manakah_letak_Tarakan?
+
+Bontang	348	148
+1
+Di_manakah_letak_Bontang?
+
+Batam	165	140
+1
+Di_manakah_letak_Batam?
+
+Tanjungpinang	172	141
+1
+Di_manakah_letak_Tanjungpinang?
+
+Pulau_Anambas	197	128
+1
+Di_manakah_letak_Pulau_Anambas?
+
+Bandar_Lampung	179	225
+1
+Di_manakah_letak_Bandar_Lampung?
+
+Metro	180	221
+1
+Di_manakah_letak_Metro?
+
+Ambon	496	201
+1
+Di_manakah_letak_Ambon?
+
+Ternate	487	140
+1
+Di_manakah_letak_Ternate?
+
+Pulau_Bunaken	448	125
+1
+Di_manakah_letak_Pulau_Bunaken?
+
+Mataram	331	266
+1
+Di_manakah_letak_Mataram?
+
+Bima	338	268
+1
+Di_manakah_letak_Bima?
+
+Pulau_Lombok	332	267
+1
+Di_manakah_letak_Pulau_Lombok?
+
+Kupang	433	288
+1
+Di_manakah_letak_Kupang?
+
+Pulau_Komodo	351	261
+1
+Di_manakah_letak_Pulau_Komodo?
+
+Pulau_Sumba	381	282
+1
+Di_manakah_letak_Pulau_Sumba?
+
+Jayapura	668	182
+1
+Di_manakah_letak_Jayapura?
+
+Sorong	546	161
+1
+Di_manakah_letak_Sorong?
+
+Kepulauan_Raja_Ampat	534	160
+1
+Di_manakah_letak_Kepulauan_Raja_Ampat?
+
+Pekanbaru	129	145
+1
+Di_manakah_letak_Pekanbaru?
+
+Dumai	124	124
+1
+Di_manakah_letak_Dumai?
+
+Makassar	376	221
+1
+Di_manakah_letak_Makassar?
+
+Palopo	386	191
+1
+Di_manakah_letak_Palopo?
+
+Parepare	378	202
+1
+Di_manakah_letak_Parepare?
+
+Palu	378	161
+1
+Di_manakah_letak_Palu?
+
+Kendari	415	200
+1
+Di_manakah_letak_Kendari?
+
+Bau-Bau	420	222
+1
+Di_manakah_letak_Bau-Bau?
+
+Manado	454	126
+1
+Di_manakah_letak_Manado?
+
+Bitung	458	128
+1
+Di_manakah_letak_Bitung?
+
+Padang	109	161
+1
+Di_manakah_letak_Padang?
+
+Palembang	167	193
+1
+Di_manakah_letak_Palembang?
+
+Lubuklinggau	148	198
+1
+Di_manakah_letak_Lubuklinggau?
+
+Prabumulih	163	193
+1
+Di_manakah_letak_Prabumulih?
+
+Pagaralam	151	200
+1
+Di_manakah_letak_Pagaralam?
+
+Medan	89	103
+1
+Di_manakah_letak_Medan?
+
+Binjai	86	105
+1
+Di_manakah_letak_Binjai?
+
+Pematangsiantar	96	113
+1
+Di_manakah_letak_Pematangsiantar?
+
+Padang_Sidempuan	96	127
+1
+Di_manakah_letak_Padang_Sidempuan?
+
+Tanjungbalai	104	110
+1
+Di_manakah_letak_Tanjungbalai?
+
+Tebingtinggi	96	105
+1
+Di_manakah_letak_Tebingtinggi?
+
+Gunung_Sitoli	74	133
+1
+Di_manakah_letak_Gunung_Sitoli?
+
+Yogyakarta	252	258
+1
+Di_manakah_letak_Yogyakarta?

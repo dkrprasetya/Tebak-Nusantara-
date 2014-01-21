@@ -1,0 +1,14 @@
+banda_aceh 49 62
+medan 104 100
+padang 134 204
+pekanbaru 169 186
+jambi 211 226
+bengkulu 177 280
+palembang 228 259
+lampung 245 317
+serang 251 341
+jakarta 262 339
+bandung 286 365
+semarang 346 371
+jogja 343 390
+surabaya 397 382

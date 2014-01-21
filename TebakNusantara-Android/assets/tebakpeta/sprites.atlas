@@ -1,0 +1,285 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runner_confused1
+  rotate: false
+  xy: 1, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused9
+  rotate: false
+  xy: 1, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused10
+  rotate: false
+  xy: 1, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused2
+  rotate: false
+  xy: 86, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused3
+  rotate: false
+  xy: 86, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused7
+  rotate: false
+  xy: 86, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused4
+  rotate: false
+  xy: 171, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused6
+  rotate: false
+  xy: 171, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused5
+  rotate: false
+  xy: 171, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_confused8
+  rotate: false
+  xy: 256, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy1
+  rotate: false
+  xy: 256, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy9
+  rotate: false
+  xy: 256, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy10
+  rotate: false
+  xy: 341, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy2
+  rotate: false
+  xy: 341, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy8
+  rotate: false
+  xy: 341, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy3
+  rotate: false
+  xy: 426, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy7
+  rotate: false
+  xy: 426, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy4
+  rotate: false
+  xy: 426, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy6
+  rotate: false
+  xy: 426, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_happy5
+  rotate: false
+  xy: 511, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic1
+  rotate: false
+  xy: 511, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic6
+  rotate: false
+  xy: 511, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic10
+  rotate: false
+  xy: 596, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic5
+  rotate: false
+  xy: 596, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic2
+  rotate: false
+  xy: 596, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic7
+  rotate: false
+  xy: 596, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic3
+  rotate: false
+  xy: 681, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic8
+  rotate: false
+  xy: 681, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic4
+  rotate: false
+  xy: 681, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_panic9
+  rotate: false
+  xy: 681, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared1
+  rotate: false
+  xy: 766, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared9
+  rotate: false
+  xy: 766, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared10
+  rotate: false
+  xy: 766, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared2
+  rotate: false
+  xy: 851, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared8
+  rotate: false
+  xy: 851, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared3
+  rotate: false
+  xy: 851, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared7
+  rotate: false
+  xy: 851, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared4
+  rotate: false
+  xy: 936, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared6
+  rotate: false
+  xy: 936, 117
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+runner_scared5
+  rotate: false
+  xy: 936, 1
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1

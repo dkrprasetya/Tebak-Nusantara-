@@ -1,0 +1,32 @@
+pilihan.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ya
+  rotate: false
+  xy: 781, 2
+  size: 200, 79
+  orig: 200, 79
+  offset: 0, 0
+  index: -1
+tidak
+  rotate: false
+  xy: 781, 83
+  size: 200, 79
+  orig: 200, 79
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 2, 2
+  size: 777, 351
+  orig: 777, 351
+  offset: 0, 0
+  index: -1
+keluar
+  rotate: false
+  xy: 2, 355
+  size: 777, 351
+  orig: 777, 351
+  offset: 0, 0
+  index: -1

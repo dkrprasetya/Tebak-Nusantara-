@@ -1,0 +1,25 @@
+highscoredialog.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boxhs
+  rotate: false
+  xy: 2, 2
+  size: 574, 182
+  orig: 800, 256
+  offset: 118, 42
+  index: -1
+selesaihs
+  rotate: false
+  xy: 578, 2
+  size: 136, 48
+  orig: 256, 64
+  offset: 59, 8
+  index: -1
+spacehs
+  rotate: false
+  xy: 2, 186
+  size: 322, 32
+  orig: 512, 64
+  offset: 88, 13
+  index: -1

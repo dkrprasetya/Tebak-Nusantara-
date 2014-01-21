@@ -1,0 +1,53 @@
+katalogscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAR
+  rotate: false
+  xy: 2, 2
+  size: 800, 86
+  orig: 800, 128
+  offset: 0, 42
+  index: -1
+makanan
+  rotate: false
+  xy: 2, 534
+  size: 166, 46
+  orig: 256, 64
+  offset: 43, 7
+  index: -1
+panahkanan
+  rotate: false
+  xy: 170, 534
+  size: 100, 154
+  orig: 100, 154
+  offset: 0, 0
+  index: -1
+lagu
+  rotate: false
+  xy: 804, 90
+  size: 166, 46
+  orig: 256, 64
+  offset: 44, 7
+  index: -1
+tarian
+  rotate: false
+  xy: 374, 534
+  size: 166, 46
+  orig: 256, 64
+  offset: 44, 7
+  index: -1
+BG2
+  rotate: false
+  xy: 2, 90
+  size: 800, 442
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+panahkiri
+  rotate: false
+  xy: 272, 534
+  size: 100, 154
+  orig: 100, 154
+  offset: 0, 0
+  index: -1

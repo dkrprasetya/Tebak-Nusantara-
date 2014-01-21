@@ -1,0 +1,46 @@
+scoredialog.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+next
+  rotate: false
+  xy: 2, 44
+  size: 198, 78
+  orig: 256, 128
+  offset: 29, 25
+  index: -1
+kotaknilai
+  rotate: false
+  xy: 402, 44
+  size: 492, 82
+  orig: 800, 128
+  offset: 154, 23
+  index: -1
+retry
+  rotate: false
+  xy: 202, 44
+  size: 198, 78
+  orig: 256, 128
+  offset: 29, 25
+  index: -1
+oops
+  rotate: false
+  xy: 2, 2
+  size: 488, 40
+  orig: 512, 64
+  offset: 15, 11
+  index: -1
+selamat
+  rotate: false
+  xy: 492, 2
+  size: 488, 40
+  orig: 512, 64
+  offset: 15, 11
+  index: -1
+box
+  rotate: false
+  xy: 2, 128
+  size: 778, 352
+  orig: 800, 512
+  offset: 11, 75
+  index: -1

@@ -1,0 +1,123 @@
+touchmap.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pause_reply_s
+  rotate: false
+  xy: 132, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_resume
+  rotate: false
+  xy: 262, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_setting_s
+  rotate: false
+  xy: 652, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+croc_waiting
+  rotate: false
+  xy: 2, 240
+  size: 676, 96
+  orig: 676, 96
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 2, 2
+  size: 800, 86
+  orig: 800, 86
+  offset: 0, 0
+  index: -1
+conveyor
+  rotate: false
+  xy: 2, 90
+  size: 562, 50
+  orig: 562, 50
+  offset: 0, 0
+  index: -1
+bar_pause
+  rotate: false
+  xy: 804, 2
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+pause_home_s
+  rotate: false
+  xy: 2, 1195
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_resume_s
+  rotate: false
+  xy: 392, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+runner_normal
+  rotate: false
+  xy: 2, 1583
+  size: 750, 113
+  orig: 750, 113
+  offset: 0, 0
+  index: -1
+pause_home
+  rotate: false
+  xy: 806, 713
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pause_panel
+  rotate: false
+  xy: 132, 1195
+  size: 800, 256
+  orig: 800, 256
+  offset: 0, 0
+  index: -1
+croc_eating
+  rotate: false
+  xy: 2, 142
+  size: 1014, 96
+  orig: 1014, 96
+  offset: 0, 0
+  index: -1
+pause_reply
+  rotate: false
+  xy: 2, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 2, 338
+  size: 715, 373
+  orig: 715, 373
+  offset: 0, 0
+  index: -1
+pause_bg
+  rotate: false
+  xy: 2, 713
+  size: 802, 480
+  orig: 802, 480
+  offset: 0, 0
+  index: -1
+pause_setting
+  rotate: false
+  xy: 522, 1453
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
